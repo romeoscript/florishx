@@ -37,7 +37,7 @@
     <div class="row justify-content-between align-items-center gutter-vr-30px">
         <div class="col-lg-4 order-lg-last">
                             <!--<a style="border: 1px solid #0047ab;" href="img/bit-1.pdf" class="btn-career btn-lg mb-20"><i class='fa fa-file-pdf-o'></i> Certificate of Incorporation <em class="ti-file"></em></a>-->
-                            <a style="border: 1px solid #0047ab; background-color: #0047ab; color: #fff;" href="img/bit-2.pdf" class="btn-career btn-lg mb-20"><i class='fa fa-file-pdf-o'></i> Our Company Profile<em class="ti-file text-white"></em></a>
+                            <a style="border: 1px solid #0047ab; background-color: #0047ab; color: #fff;" href="img/CERT.jpeg" class="btn-career btn-lg mb-20"><i class='fa fa-file-pdf-o'></i>Our Certificate<em class="ti-file text-white"></em></a>
         </div>
         <div class="col-lg-8">
             <div class="text-block">
@@ -57,8 +57,8 @@
     <div class="gap gap-8x d-none d-lg-block"></div>
     <div class="row justify-content-center gutter-vr-30px">
         <div class="col-12">
-            <div class="text-box service-box bg-primary h-full">
-                                        <p class="mywhite">
+            <div class="text-box service-box bg-primary h-full"  >
+                                        <p class="mywhite" style="color:black;">
                                             With over $5.3 Trillion traded daily in the market, we are dedicated to giving our clients their own share of the
 profit daily. As a leading global market maker, FLOROUSHX Financial Management has one of the World’s Largest Independent
 traders and fund managers with clients from different parts of the World. Today, as a
