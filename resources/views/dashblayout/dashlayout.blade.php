@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
       
-<!-- Smartsupp Live Chat script -->
-<script type="text/javascript">
-    var _smartsupp = _smartsupp || {};
-    _smartsupp.key = 'c17ebb1e279cfbc3b675f363f7d810f615af7b15';
-    window.smartsupp||(function(d) {
-        var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-        s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-        c.type='text/javascript';c.charset='utf-8';c.async=true;
-        c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-    })(document);
-    </script>
+ <script src="//code.tidio.co/mtnzvhy0nwahpvhlufmqdqcyozryyj8i.js" async></script>
     <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
