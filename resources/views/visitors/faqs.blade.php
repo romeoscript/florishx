@@ -15,7 +15,7 @@
                                 <span class="line line-left"></span>
                             </div>
                             <p class="sub-heading">FAQs</p>
-                            <h1 class="banner-heading">Any Questions? We are here to answer you</h1>
+                            <h1 class="banner-heading">Any Questions? We are here to answer you?</h1>
                         </div>
                     </div>
                 </div>

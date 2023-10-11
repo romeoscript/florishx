@@ -17,7 +17,7 @@
                             <span class="line line-left"></span>
                         </div>
                         <p class="sub-heading">Legal Information</p>
-                        <h1 class="banner-heading">Fidelity is our watchword</h1>
+                        <h1 class="banner-heading">Fideliti is our watchword</h1>
                     </div>
                 </div>
             </div>
