@@ -8,7 +8,7 @@
     
 <!-- Smartsupp Live Chat script -->
 
-    <script src="//code.tidio.co/mtnzvhy0nwahpvhlufmqdqcyozryyj8i.js" async></script>
+  <script src="//code.tidio.co/wyn2xepxqsg29ejhmxb4fledef6nad4i.js" async></script>
 	<meta charset="utf-8">
 	<meta name="author" content="">
         <meta name="theme-color" content="#fff">
